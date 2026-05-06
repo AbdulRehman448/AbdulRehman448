@@ -1,8 +1,8 @@
 # Hi, I'm Abdul Rehman Ali 👋
 
-### Agentic AI Builder | Flutter Developer | CS Student at Air University
+### Agentic AI and Automation Builder | CS Student at Air University
 
-I specialize in building autonomous AI systems and high-performance mobile applications. I'm passionate about bridging the gap between sleek UI/UX and powerful backend automation.
+I specialize in building autonomous AI systems and high-performance websites. I'm passionate about bridging the gap between sleek UI/UX and powerful backend automation.
 
 ---
 
@@ -32,7 +32,7 @@ I specialize in building autonomous AI systems and high-performance mobile appli
 ---
 
 ### 🤝 Let's Connect
-* **LinkedIn:** www.linkedin.com/in/abdul-rehman-ali-24964735b
+* **LinkedIn:** www.linkedin.com/in/abdul-rehman-ali
 * **Portfolio:** https://abdulrehmanali.netlify.app/
 * **Email:** abdulrehman.tp.786@gmail.com
 
