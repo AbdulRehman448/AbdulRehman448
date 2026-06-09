@@ -49,7 +49,7 @@ Currently freelancing for international SMBs and building my automation portfoli
 
 ## 📈 GitHub Stats
 
-![Abdul Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehman448&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman448&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman448&layout=compact&theme=transparent&hide_border=true)
 
 ---
