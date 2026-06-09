@@ -46,13 +46,14 @@ Currently freelancing for international SMBs and building my automation portfoli
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
-
+<!-- Comment Included
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman448&theme=transparent&hide_border=true)
 ![Activity Graph](https://github-activity-graph.vercel.app/graph?username=AbdulRehman448&theme=minimal&hide_border=true)
 
 ---
+-->
 
 ## 🏅 Highlights
 
