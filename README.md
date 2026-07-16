@@ -1,77 +1,117 @@
-# Hey, I'm Abdul Rehman Ali 👋
-
-> **Agentic AI Builder · Full-Stack Developer · AI Automation Engineer**  
-> CS Student @ Air University Kharian · Graduating 2028 · Based in Pakistan 🇵🇰
-
-I build things that work while you sleep — autonomous AI pipelines, production-grade web apps, and cross-platform mobile experiences. My sweet spot is the intersection of **agentic AI** and **real product delivery**: not just prototypes, but systems that ship.
-
-Currently freelancing for international SMBs and building my automation portfolio around **n8n**, LLMs, and full-stack stacks that actually scale.
-
----
-
-## 🤖 What I'm Building Right Now
-
-| Project | Stack | Status |
-|---|---|---|
-| **HydroPredict / AquaFlow** — Smart water prediction & booking system | Blazor/.NET 10, Firebase | 🔨 Active |
-| **ClientPilot AI** — AI-powered client acquisition SaaS | n8n, Next.js, PostgreSQL | 🧠 Designing |
-| **Trilles AI Hiring Pipeline** — End-to-end automated recruitment workflow | n8n Cloud, Gmail, Google Sheets | ✅ Delivered |
-| **AI Automation Portfolio** — Lead gen, content pipeline, invoice follow-up | n8n Cloud | ✅ Live on GitHub |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Platforms**  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Automation & AI**  
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Data & Infrastructure**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-<!-- Comment Included
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman448&theme=transparent&hide_border=true)
-![Activity Graph](https://github-activity-graph.vercel.app/graph?username=AbdulRehman448&theme=minimal&hide_border=true)
-
----
--->
-
-## 🏅 Highlights
-
-- 🏆 **PM Merit Laptop & Scholarship** recipient
-- 🌍 **Aspire Leaders Program** member
-- 🔵 **Google Developer Program** member
-- 🤝 Open to freelance AI automation projects and full-time AI/full-stack roles
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaboration, freelance work, or just a good conversation about AI and automation.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-ali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://abdulrehmanali.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrehman.tp.786@gmail.com)
-
----
-
-*"Automating the boring, so humans can focus on what matters."*
+<svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg"><defs>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="bgGlowA" cx="15%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#93C5FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlowB" cx="85%" cy="15%" r="45%">
+      <stop offset="0%" stop-color="#A5B4FC" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#A5B4FC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlowC" cx="60%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#6EE7B7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#6EE7B7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="glowSmall" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowMed" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="noiseF" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.02 0"/>
+    </filter>
+    <clipPath id="cardClip"><rect x="0" y="0" width="1180" height="610" rx="28"/></clipPath>
+    <clipPath id="leftClip"><rect x="28" y="28" width="406" height="554" rx="20"/></clipPath>
+    <clipPath id="rightClip"><rect x="462" y="28" width="690" height="554" rx="20"/></clipPath>
+    </defs><g clip-path="url(#cardClip)"><rect x="0" y="0" width="1180" height="610" fill="#FFFFFF"/><rect x="0" y="0" width="1180" height="610" fill="url(#bgGlowA)"/><rect x="0" y="0" width="1180" height="610" fill="url(#bgGlowB)"/><rect x="0" y="0" width="1180" height="610" fill="url(#bgGlowC)"/>
+    <circle cx="180" cy="120" r="140" fill="#A5B4FC" opacity="0.10" filter="url(#softBlur)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 20,-25; 0,0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="480" r="160" fill="#6EE7B7" opacity="0.10" filter="url(#softBlur)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -25,20; 0,0" dur="11s" repeatCount="indefinite"/>
+    </circle><rect x="0" y="0" width="1180" height="610" filter="url(#noiseF)"/><circle cx="683" cy="174" r="1.1" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.0s" begin="3.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.0s" begin="3.3s" repeatCount="indefinite"/>
+        </circle><circle cx="212" cy="394" r="2.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.9s" begin="0.9s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.9s" begin="0.9s" repeatCount="indefinite"/>
+        </circle><circle cx="196" cy="464" r="1.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.1s" begin="2.2s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.1s" begin="2.2s" repeatCount="indefinite"/>
+        </circle><circle cx="141" cy="146" r="1.9" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="9.7s" begin="2.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="9.7s" begin="2.3s" repeatCount="indefinite"/>
+        </circle><circle cx="146" cy="426" r="1.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="5.2s" begin="2.2s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="5.2s" begin="2.2s" repeatCount="indefinite"/>
+        </circle><circle cx="292" cy="316" r="1.8" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.1s" begin="2.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.1s" begin="2.3s" repeatCount="indefinite"/>
+        </circle><circle cx="390" cy="125" r="1.9" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.9s" begin="1.5s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.9s" begin="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="1141" cy="84" r="1.9" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.8s" begin="2.0s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.8s" begin="2.0s" repeatCount="indefinite"/>
+        </circle><circle cx="1108" cy="457" r="1.7" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="8.9s" begin="3.7s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="8.9s" begin="3.7s" repeatCount="indefinite"/>
+        </circle><circle cx="760" cy="326" r="1.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="6.2s" begin="3.1s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="6.2s" begin="3.1s" repeatCount="indefinite"/>
+        </circle><circle cx="187" cy="327" r="2.2" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.6s" begin="2.9s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.6s" begin="2.9s" repeatCount="indefinite"/>
+        </circle><circle cx="609" cy="94" r="1.6" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="5.6s" begin="3.0s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="5.6s" begin="3.0s" repeatCount="indefinite"/>
+        </circle><circle cx="331" cy="520" r="2.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="7.1s" begin="0.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="7.1s" begin="0.3s" repeatCount="indefinite"/>
+        </circle><circle cx="662" cy="368" r="1.8" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="8.5s" begin="2.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="8.5s" begin="2.3s" repeatCount="indefinite"/>
+        </circle><circle cx="954" cy="90" r="2.3" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="9.2s" begin="1.9s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="9.2s" begin="1.9s" repeatCount="indefinite"/>
+        </circle><circle cx="153" cy="82" r="1.4" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="8.7s" begin="2.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="8.7s" begin="2.3s" repeatCount="indefinite"/>
+        </circle><circle cx="932" cy="311" r="2.2" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="8.6s" begin="1.4s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="8.6s" begin="1.4s" repeatCount="indefinite"/>
+        </circle><circle cx="965" cy="383" r="1.2" fill="#06B6D4" opacity="0">
+          <animate attributeName="opacity" values="0;0.5;0" dur="5.8s" begin="0.2s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0,0; 0,-30; 0,0" dur="5.8s" begin="0.2s" repeatCount="indefinite"/>
+        </circle>
+    <rect x="2" y="2" width="1176" height="606" rx="26" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" opacity="0.55"/>
+    <rect x="0.5" y="0.5" width="1179" height="609" rx="28" fill="none" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
+    
+    <rect x="0" y="-40" width="1180" height="40" fill="url(#accentGrad)" opacity="0.03">
+      <animate attributeName="y" values="-40;610" dur="6s" repeatCount="indefinite"/>
+    </rect></g><g clip-path="url(#leftClip)"><rect x="28" y="28" width="406" height="554" rx="20" fill="#F8FAFC" opacity="0.6"/><rect x="28" y="28" width="406" height="277.0" rx="20" fill="#0F172A" opacity="0.02"/><rect x="28.5" y="28.5" width="405" height="553" rx="20" fill="none" stroke="rgba(15,23,42,.08)" stroke-width="1"/><g transform="translate(62,118)"><animateTransform attributeName="transform" type="translate" additive="sum" values="0,0; 0,-6; 0,0" dur="5s" repeatCount="indefinite"/><text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      _____________<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0;0.04;0.867;1" dur="9.0s" begin="0.0s" repeatCount="indefinite"/></text><text x="0" y="25" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     /             \<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.022;0.062;0.867;1" dur="9.0s" begin="-0.02s" repeatCount="indefinite"/></text><text x="0" y="50" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |   .-------.   |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.044;0.08399999999999999;0.867;1" dur="9.0s" begin="-0.04s" repeatCount="indefinite"/></text><text x="0" y="75" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |  |  o   o  |  |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.067;0.10700000000000001;0.867;1" dur="9.0s" begin="-0.06s" repeatCount="indefinite"/></text><text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |  |    ^    |  |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.089;0.129;0.867;1" dur="9.0s" begin="-0.08s" repeatCount="indefinite"/></text><text x="0" y="125" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |  |  \___/  |  |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.111;0.151;0.867;1" dur="9.0s" begin="-0.1s" repeatCount="indefinite"/></text><text x="0" y="150" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |   '-------'   |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.133;0.17300000000000001;0.867;1" dur="9.0s" begin="-0.12s" repeatCount="indefinite"/></text><text x="0" y="175" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">    |_______________|<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.156;0.196;0.867;1" dur="9.0s" begin="-0.14s" repeatCount="indefinite"/></text><text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">         |  |  |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.178;0.218;0.867;1" dur="9.0s" begin="-0.16s" repeatCount="indefinite"/></text><text x="0" y="225" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      ___|__|__|___<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.24000000000000002;0.867;1" dur="9.0s" begin="-0.18s" repeatCount="indefinite"/></text><text x="0" y="250" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     | AI // AUTO  |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.222;0.262;0.867;1" dur="9.0s" begin="-0.2s" repeatCount="indefinite"/></text><text x="0" y="275" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     |  DEV // OPS |<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.244;0.284;0.867;1" dur="9.0s" begin="-0.22s" repeatCount="indefinite"/></text><text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">     |_____________|<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.267;0.307;0.867;1" dur="9.0s" begin="-0.24s" repeatCount="indefinite"/></text><text x="0" y="325" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">       / KHARIAN \<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.289;0.32899999999999996;0.867;1" dur="9.0s" begin="-0.26s" repeatCount="indefinite"/></text><text x="0" y="350" font-family="Consolas, Menlo, monospace" font-size="15" fill="url(#asciiGrad)" opacity="0" xml:space="preserve">      '____________'<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.311;0.351;0.867;1" dur="9.0s" begin="-0.28s" repeatCount="indefinite"/></text><rect x="0" y="369" width="9" height="16" fill="#06B6D4" opacity="0.9"><animate attributeName="opacity" values="0.9;0.9;0;0;0.9" keyTimes="0;0.5;0.55;1;1" dur="1.1s" repeatCount="indefinite"/></rect></g>
+    <text x="231.0" y="512" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700" fill="#0F172A">Abdul Rehman Ali</text>
+    <text x="231.0" y="536" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="2" fill="#475569">SYSTEM.STATUS :: ONLINE</text>
+    <circle cx="173.0" cy="533" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    </g><g clip-path="url(#rightClip)"><rect x="462" y="28" width="690" height="554" rx="20" fill="#F1F5F9" opacity="0.65"/><rect x="462.5" y="28.5" width="689" height="553" rx="20" fill="none" stroke="rgba(15,23,42,.08)" stroke-width="1"/><rect x="462" y="28" width="690" height="40" rx="20" fill="#0F172A" opacity="0.03"/><circle cx="488" cy="48" r="6" fill="#FF5F56" opacity="0.85"/><circle cx="508" cy="48" r="6" fill="#FFBD2E" opacity="0.85"/><circle cx="528" cy="48" r="6" fill="#27C93F" opacity="0.85"/><text x="807.0" y="53" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#475569">abdul@portfolio: ~/profile</text><text x="494" y="110" font-family="Consolas, Menlo, monospace" font-size="22" fill="#475569" opacity="0">Hi <tspan fill="#0F172A">👋</tspan><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/></text><text x="494" y="144" font-family="Consolas, Menlo, monospace" font-size="26" font-weight="700" fill="#0F172A" opacity="0">I'm <tspan fill="url(#accentGrad)">Abdul Rehman Ali</tspan><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze"/></text><text x="494" y="190" font-family="Consolas, Menlo, monospace" font-size="17" fill="#06B6D4">&gt;</text><clipPath id="roleClip0"><rect x="0" y="174" height="22" width="0"><animate attributeName="width" values="0;226;226;0;0" keyTimes="0;0.359;0.769;0.949;1" begin="0.0s" dur="19.5s" repeatCount="indefinite"/></rect></clipPath><g clip-path="url(#roleClip0)"><text x="512" y="190" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#0F172A">AI Automation Engineer</text></g><clipPath id="roleClip1"><rect x="0" y="174" height="22" width="0"><animate attributeName="width" values="0;206;206;0;0" keyTimes="0;0.359;0.769;0.949;1" begin="3.9s" dur="19.5s" repeatCount="indefinite"/></rect></clipPath><g clip-path="url(#roleClip1)"><text x="512" y="190" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#0F172A">Full-Stack Developer</text></g><clipPath id="roleClip2"><rect x="0" y="174" height="22" width="0"><animate attributeName="width" values="0;206;206;0;0" keyTimes="0;0.359;0.769;0.949;1" begin="7.8s" dur="19.5s" repeatCount="indefinite"/></rect></clipPath><g clip-path="url(#roleClip2)"><text x="512" y="190" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#0F172A">n8n Workflow Builder</text></g><clipPath id="roleClip3"><rect x="0" y="174" height="22" width="0"><animate attributeName="width" values="0;236;236;0;0" keyTimes="0;0.359;0.769;0.949;1" begin="11.7s" dur="19.5s" repeatCount="indefinite"/></rect></clipPath><g clip-path="url(#roleClip3)"><text x="512" y="190" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#0F172A">Open Source Contributor</text></g><clipPath id="roleClip4"><rect x="0" y="174" height="22" width="0"><animate attributeName="width" values="0;196;196;0;0" keyTimes="0;0.359;0.769;0.949;1" begin="15.6s" dur="19.5s" repeatCount="indefinite"/></rect></clipPath><g clip-path="url(#roleClip4)"><text x="512" y="190" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="600" fill="#0F172A">Freelance Developer</text></g><rect x="512" y="175" width="8" height="19" fill="#06B6D4"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.55;1;1" dur="0.9s" repeatCount="indefinite"/></rect><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.35s" fill="freeze"/><text x="494" y="234" font-family="Consolas, Menlo, monospace" font-size="13" fill="#475569">Location</text><text x="612" y="234" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#0F172A">Kharian, Punjab, PK</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.55s" dur="0.35s" fill="freeze"/><text x="494" y="259" font-family="Consolas, Menlo, monospace" font-size="13" fill="#475569">Education</text><text x="612" y="259" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#0F172A">BSCS - Air University</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.35s" fill="freeze"/><text x="494" y="284" font-family="Consolas, Menlo, monospace" font-size="13" fill="#475569">Focus</text><text x="612" y="284" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#0F172A">Agentic AI &amp; Automation</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.25s" dur="0.35s" fill="freeze"/><text x="494" y="309" font-family="Consolas, Menlo, monospace" font-size="13" fill="#475569">Portfolio</text><text x="612" y="309" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#0F172A">abdulrehmanali.netlify.app</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.6s" dur="0.35s" fill="freeze"/><text x="494" y="334" font-family="Consolas, Menlo, monospace" font-size="13" fill="#475569">Email</text><text x="612" y="334" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#0F172A">abdulrehman.tp.786@gmail.com</text></g><text x="494" y="379" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="2" fill="#475569" opacity="0">SKILLS<animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.4s" fill="freeze"/></text><style>.pill{transition:transform .2s ease;} .pill:hover{transform:translateY(-2px) scale(1.06);} .pill:hover .pillbg{filter:url(#glowMed);}</style><g class="pill" opacity="0" transform="translate(494,397)"><animate attributeName="opacity" from="0" to="1" begin="5.4s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="64.5" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="64.5" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="32.25" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">React</text></g><g class="pill" opacity="0" transform="translate(568.5,397)"><animate attributeName="opacity" from="0" to="1" begin="5.52s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="79.1" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="79.1" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="39.55" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Next.js</text></g><g class="pill" opacity="0" transform="translate(657.6,397)"><animate attributeName="opacity" from="0" to="1" begin="5.64s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="79.1" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="79.1" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="39.55" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Node.js</text></g><g class="pill" opacity="0" transform="translate(746.7,397)"><animate attributeName="opacity" from="0" to="1" begin="5.76s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="101.0" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="101.0" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="50.5" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">TypeScript</text></g><g class="pill" opacity="0" transform="translate(857.7,397)"><animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="71.8" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="71.8" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="35.9" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Python</text></g><g class="pill" opacity="0" transform="translate(939.5,397)"><animate attributeName="opacity" from="0" to="1" begin="6.0s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="49.9" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="49.9" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="24.95" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">n8n</text></g><g class="pill" opacity="0" transform="translate(999.4,397)"><animate attributeName="opacity" from="0" to="1" begin="6.12s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="79.1" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="79.1" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="39.55" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">FastAPI</text></g><g class="pill" opacity="0" transform="translate(494,431)"><animate attributeName="opacity" from="0" to="1" begin="6.24s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="71.8" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="71.8" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="35.9" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Docker</text></g><g class="pill" opacity="0" transform="translate(575.8,431)"><animate attributeName="opacity" from="0" to="1" begin="6.36s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="101.0" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="101.0" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="50.5" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">PostgreSQL</text></g><g class="pill" opacity="0" transform="translate(686.8,431)"><animate attributeName="opacity" from="0" to="1" begin="6.48s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="86.4" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="86.4" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="43.2" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Firebase</text></g><g class="pill" opacity="0" transform="translate(783.1999999999999,431)"><animate attributeName="opacity" from="0" to="1" begin="6.6s" dur="0.35s" fill="freeze"/><rect class="pillbg" x="0" y="0" width="49.9" height="26" rx="13" fill="rgba(15,23,42,.03)" stroke="rgba(15,23,42,.10)" stroke-width="1"/><rect x="0" y="0" width="49.9" height="26" rx="13" fill="none" stroke="url(#accentGrad)" stroke-width="0.8" opacity="0.5"/><text x="24.95" y="17.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#0F172A">Git</text></g><g opacity="0" transform="translate(494,536)"><animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.4s" fill="freeze"/><circle cx="18" cy="0" r="18" fill="rgba(15,23,42,.03)" stroke="url(#accentGrad)" stroke-width="1.1" filter="url(#glowSmall)"><animate attributeName="r" values="18;19;18" dur="3s" begin="6.4s" repeatCount="indefinite"/></circle><text x="18" y="4.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" fill="#0F172A">GH</text></g><g opacity="0" transform="translate(558,536)"><animate attributeName="opacity" from="0" to="1" begin="6.55s" dur="0.4s" fill="freeze"/><circle cx="18" cy="0" r="18" fill="rgba(15,23,42,.03)" stroke="url(#accentGrad)" stroke-width="1.1" filter="url(#glowSmall)"><animate attributeName="r" values="18;19;18" dur="3s" begin="6.55s" repeatCount="indefinite"/></circle><text x="18" y="4.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" fill="#0F172A">IN</text></g><g opacity="0" transform="translate(622,536)"><animate attributeName="opacity" from="0" to="1" begin="6.7s" dur="0.4s" fill="freeze"/><circle cx="18" cy="0" r="18" fill="rgba(15,23,42,.03)" stroke="url(#accentGrad)" stroke-width="1.1" filter="url(#glowSmall)"><animate attributeName="r" values="18;19;18" dur="3s" begin="6.7s" repeatCount="indefinite"/></circle><text x="18" y="4.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" fill="#0F172A">X</text></g><g opacity="0" transform="translate(686,536)"><animate attributeName="opacity" from="0" to="1" begin="6.85s" dur="0.4s" fill="freeze"/><circle cx="18" cy="0" r="18" fill="rgba(15,23,42,.03)" stroke="url(#accentGrad)" stroke-width="1.1" filter="url(#glowSmall)"><animate attributeName="r" values="18;19;18" dur="3s" begin="6.85s" repeatCount="indefinite"/></circle><text x="18" y="4.5" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" fill="#0F172A">WWW</text></g></g></svg>
