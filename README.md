@@ -164,24 +164,6 @@ Collection of AI-powered workflow automations using:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman448&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=AbdulRehman448&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman448&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
------
-
 # 🌱 Currently Learning
 
 - AI Agents
