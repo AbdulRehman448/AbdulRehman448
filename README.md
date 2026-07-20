@@ -168,11 +168,11 @@ Collection of AI-powered workflow automations using:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AbdulRehman448&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman448&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman448&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=AbdulRehman448&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman448&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman448&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
