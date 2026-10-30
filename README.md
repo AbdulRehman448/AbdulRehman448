@@ -1,201 +1,107 @@
 # Hi, I'm Abdul Rehman Ali 👋
 
-<div align="center">
+### AI Automation Engineer | Full Stack Developer | Computer Science Student
 
-### AI Automation Engineer | Full Stack Developer | BS Computer Science Student
+I build intelligent applications, AI-powered solutions, and modern web systems that solve real-world problems.
 
-Building AI-powered applications, intelligent automation, and scalable web solutions.
+I’m passionate about combining software engineering, artificial intelligence, and automation to develop practical, scalable, and user-focused solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://abdulrehmanali.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/abdul-rehman-ali/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:abdulrehman.tp.786@gmail.com)
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm an **AI Automation Engineer Intern at Trilles AI** and a **BS Computer Science student** passionate about building intelligent software powered by AI.
-
-My primary interests include:
-
-- 🤖 AI Automation
-- 🧠 AI Agents
-- ⚡ FastAPI & Python
-- 🌐 Full Stack Development
-- ☁️ Cloud Applications
-- 🔄 Workflow Automation
-- 📊 SaaS Products
-
-I enjoy solving real-world business problems using AI and modern software engineering practices.
+<p align="left">
+  <a href="https://abdulrehmanali.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdulrehman.tp.786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 💼 Current Focus
+## About Me
 
-Currently building a production-grade:
+I'm a Computer Science student focused on AI engineering and full stack software development.
 
-### 🧠 AI Sales Research Agent
+My work and interests revolve around:
 
-Features include:
+- **AI Engineering:** Building AI-powered applications and intelligent systems.
+- **AI Automation:** Designing automated workflows and integrating AI into business processes.
+- **Full Stack Development:** Developing modern web applications and RESTful APIs.
+- **Backend Engineering:** Building backend services, database integrations, and application architectures.
+- **Software Engineering:** Writing maintainable code and developing solutions with practical business value.
 
-- Company Research
-- Lead Intelligence
-- Competitor Analysis
-- Buying Signals
-- SWOT Analysis
-- AI Generated Outreach
-- PDF Reports
-- Multi-Agent Ready Architecture
+I believe in building technology that goes beyond experimentation and addresses actual problems.
 
-**Tech Stack**
+## Technical Skills
 
-- Python
-- FastAPI
-- Supabase
-- Redis
-- React
-- AI APIs
+**Programming Languages**
 
----
+Python · JavaScript · TypeScript · C# · C++ · SQL
 
-# 🛠 Tech Stack
+**Frontend Development**
 
-## Languages
+React · Next.js · HTML5 · CSS3 · Tailwind CSS
 
-- Python
-- JavaScript
-- TypeScript
-- C#
-- C++
-- SQL
+**Backend Development**
 
----
+FastAPI · Flask · ASP.NET Core · REST APIs
 
-## Frontend
+**Databases**
 
-- React
-- Next.js
-- Tailwind CSS
-- HTML5
-- CSS3
+PostgreSQL · Supabase · MySQL · Firebase · Firestore
+
+**AI & Automation**
+
+AI Agents · n8n · Google Gemini · API Integrations · Prompt Engineering · Workflow Automation · Web Scraping
+
+**Tools & Platforms**
+
+Git · GitHub · VS Code · Vercel · Netlify · Docker
 
 ---
 
-## Backend
+## Areas of Focus
 
-- FastAPI
-- Flask
-- ASP.NET Core
-- REST APIs
+I'm particularly interested in developing solutions across these areas:
 
----
-
-## Database
-
-- Supabase
-- PostgreSQL
-- MySQL
-- Firebase Firestore
-- Firebase Realtime Database
+- AI-powered business applications
+- Intelligent agents and multi-agent systems
+- Business process automation
+- SaaS application development
+- Backend systems and API development
+- Cloud-based software solutions
+- Scalable application architecture
 
 ---
 
-## AI & Automation
+## Currently Exploring
 
-- n8n
-- Google Gemini
-- Firecrawl
-- Tavily
-- AI Agents
-- Prompt Engineering
-
----
-
-## Cloud & DevOps
-
-- Git
-- GitHub
-- Vercel
-- Netlify
-- Docker (Learning)
+- Advanced AI Agent Development
+- Multi-Agent Architectures
+- LangChain & LangGraph
+- Advanced Python Development
+- Clean Architecture & System Design
+- Cloud Infrastructure and Deployment
+- Production-Ready SaaS Development
 
 ---
 
-# 📌 Featured Projects
+## Let's Connect
 
-## 🤖 AI Sales Research Agent *(In Progress)*
+I'm always interested in connecting with developers, founders, engineers, and people working on meaningful technology.
 
-A production-grade AI platform that researches companies, identifies buying signals, analyzes competitors, and generates personalized sales outreach.
-
-**Stack**
-
-Python • FastAPI • Supabase • Redis • React
+- **Portfolio:** https://abdulrehmanali.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/abdul-rehman-ali/
+- **Email:** abdulrehman.tp.786@gmail.com
 
 ---
 
-## 📄 AI Proposal Generator
+<p align="center">
+  <b>Building intelligent solutions through software engineering, AI, and automation.</b>
+</p>
 
-AI-powered proposal generation platform that analyzes client requirements and automatically creates personalized business proposals.
-
----
-
-## 🌊 HydroPredict
-
-Smart Water Prediction & Booking System
-
-- Blazor Server
-- Firebase
-- Firestore
-- Authentication
-- Real-time Database
-
----
-
-## 🎯 AI Automation Workflows
-
-Collection of AI-powered workflow automations using:
-
-- n8n
-- Google Gemini
-- APIs
-- Automation Agents
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- Multi-Agent Systems
-- FastAPI
-- Clean Architecture
-- System Design
-- SaaS Development
-- Cloud Architecture
-
----
-
-# 🤝 Let's Connect
-
-🌐 Portfolio
-
-https://abdulrehmanali.netlify.app/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/abdul-rehman-ali/
-
-📧 Email
-
-abdulrehman.tp.786@gmail.com
-
----
-
-<div align="center">
-
-### "Building intelligent software that solves real-world problems."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">
+  Thanks for visiting my GitHub profile!
+</p>
