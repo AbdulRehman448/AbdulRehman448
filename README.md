@@ -47,34 +47,6 @@ My focus is on combining artificial intelligence, automation, and modern softwar
 
 ---
 
-## Technology Stack
-
-**Languages**
-
-Python · JavaScript · TypeScript · C# · C++ · SQL
-
-**Frontend**
-
-React · Next.js · Tailwind CSS · HTML5 · CSS3
-
-**Backend**
-
-FastAPI · Flask · ASP.NET Core · REST APIs
-
-**Databases**
-
-PostgreSQL · Supabase · MySQL · Firebase · Firestore
-
-**AI & Automation**
-
-AI Agents · n8n · Google Gemini · LangChain · LangGraph · Prompt Engineering · API Integrations
-
-**Tools & Infrastructure**
-
-Git · GitHub · Docker · Vercel · Netlify
-
----
-
 ## Development Approach
 
 I focus on building solutions that are:
