@@ -78,6 +78,7 @@ I'm open to collaborating with founders, startups, agencies, and businesses on A
 
 **LinkedIn:** https://www.linkedin.com/in/abdul-rehman-ali/
 
+**Portfolio:** https://abdulrehmanali.netlify.app/
 ---
 
 <p align="center">
