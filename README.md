@@ -74,11 +74,12 @@ I'm open to collaborating with founders, startups, agencies, and businesses on A
   </a>
 </p>
 
-**Email:** abdulrehman.tp.786@gmail.com
+**Email:** [abdulrehman.tp.786@gmail.com](mailto:abdulrehman.tp.786@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/abdul-rehman-ali](https://www.linkedin.com/in/abdul-rehman-ali/)
 
-**Portfolio:** [abdulrehmanali.netlify.app](https://abdulrehmanali.netlify.app/)
+**Portfolio:**    [abdulrehmanali.netlify.app](https://abdulrehmanali.netlify.app/)  
+
 ---
 
 <p align="center">
